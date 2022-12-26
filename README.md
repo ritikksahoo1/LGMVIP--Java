@@ -1,3 +1,5 @@
 # LGMVIP--Java
 LetsGrowMore-Java Developer Intern
-Intermediate Level Task- Scientific Calculator
+Task 1- Scientific Calculator
+Task 2- Currency Convertor
+Task 3- Tic-Tac-Toe
